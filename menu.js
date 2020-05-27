@@ -1,10 +1,10 @@
 // == UserScript ==
-// @name          FUT20 Autobuyer-menu
+// @name          fut_autobuy3r
 // @namespace     http://tampermonkey.net/
 // @versie       0.6
-// @updateURL     https://github.com/oRastor/fut20-web-app/raw/master/menu.user.js
-// @description   probeer de wereld over te nemen!
-// @auteur        Rastor
+// @updateURL     https://github.com/Thijmen-Stegenga/autobuyer/blob/master/menu.js
+// @description   Thanks for buying!
+// @auteur        itsTechnix
 // @match         https://www.easports.com/uk/fifa/ultimate-team/web-app/*
 // @match         https://www.easports.com/fifa/ultimate-team/web-app/*
 // @grant         geen
